@@ -1,0 +1,52 @@
+.topnav {
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	text-align: center;
+	padding: 10px 12px;
+}
+
+.topnav b {
+	float: right;
+	text-align: center;
+	padding: 10px 12px;
+}
+
+.bottomnav {
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.bottomnav a {
+	float: left;
+	text-align: center;
+	padding: 10px 12px;
+}
+
+.bottomnav b {
+	float: right;
+	text-align: center;
+	padding: 10px 12px;
+}
+
+.logo {
+	display: block;
+	margin-left: 30%;
+	margin-right: 30%;
+	width: 100%;
+	padding: 15%;
+}
+
+.searchbar {
+	position: fixed;
+	left: 37%;
+	top: 47%;
+	width: 400px;
+	height: 60px;
+	border-radius: 25px;
+	font-size: 20px;
+}
